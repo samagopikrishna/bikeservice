@@ -1,0 +1,16 @@
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const SELECT_SLOT = "SELECT_SLOT";
+export const BOOK_SLOT = "BOOK_SLOT";
+export const SELECT_COMPANY = "SELECT_COMPANY";
+export const LOGOUT = "LOGOUT";
+export const GET_SLOTS = "GET_SLOTS";
+export const LOAD_COMP = "LOAD_COMP";
+export const GET_BOOKS = "GET_BOOKS";
+export const GET_COMP = "GET_COMP";
